@@ -1,4 +1,4 @@
-if game.PlaceId == 2788229376 then
+if game.PlaceId == 2788229376 or game.PlaceId == 109959684689570 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CongoOhioDog/DaHood/main/hood.lua"))()
 return end
 
